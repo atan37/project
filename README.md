@@ -1,4 +1,4 @@
-# project
+# ML Project
 
 [Social Media usage and Psychological Effects] Data Science Design Document
 
